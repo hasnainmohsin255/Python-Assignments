@@ -1,0 +1,1 @@
+print("Name: Hasnain Mohsin\nFather Name: Mohsin\nDate of Birth: 01-01-2000")
